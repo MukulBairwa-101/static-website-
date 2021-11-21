@@ -1,0 +1,143 @@
+.custom_nav{
+    font-size: small;
+    box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.3);
+}
+.custom_nav ul.dropdown-menu{
+    font-size: small;
+}
+.custom-divider{
+    height: 5px;
+    background: rgb(73,86,152);
+    background: radial-gradient(circle, rgba(73,86,152,1) 0%, rgba(3,0,4,0.9532855378479517) 86%);
+}
+.main-banner{
+    margin-top: 10px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background:url(img/banner3.jpg);
+    background-size: cover;
+    color: white;
+}
+.feature-content-holder{
+    padding-top: 25px;
+    text-align: center;
+    padding-bottom: 25px;
+    background-color: 
+}
+section.feature{
+    background-color:#ececec;
+}
+.feature-content-holder h3 {
+    font-size: 1.2em;
+}
+.feature-content-holder p {
+    font-size: 14px;
+}
+section.online-cources,.classroom-training,.reviews-section ,.content{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.online-cources-text-widget,.classroom-cources-text-widget,.reviews-section {
+    text-align: center;
+}
+.online-cources-text-widget h2 ,.classroom-cources-text-widget h2 ,.reviews-section{
+    font-size: 1.2em;
+}
+.online-cources-text-widget p ,.classroom-cources-text-widget p ,.reviews-section{
+    font-size: 14px;
+}
+.card.online-cource-card ,.reviews-section{
+    text-align: center;
+    margin-bottom: 25px;
+}
+.online-cource-card .card-title{
+    font-size: 1.2em;
+    line-height: 25px;
+}
+.card.online-cource-card .card-text{
+    font-size: 14px;
+}
+.classroom-training ,.content{ 
+    background-color:#ececec ;
+}
+.course-item{
+    margin-top: 20px;
+}
+
+.sign-up-form-sidebar .card-text {
+    font-size: 18px;
+    text-align: center;
+}
+.course-list-item{
+    font-size: 14px;
+    color: black;
+    padding-top: 15px;
+}
+.review-slider {
+    background-color: #dbdbdb;
+}
+#review-slider-content li .card{
+    text-align: center;
+}
+#review-slider-content li .card img{
+    margin-bottom:25px ;
+    width: 90px;
+}
+#review-slider-content li .card-title{
+    font-size: 18px;
+    font-weight: bold;
+}
+#review-slider-content li .star{
+    font-size: 14px;
+    color: orange;   
+}
+#review-slider-content li .card p{
+    font-size: 14px;
+}
+section.main-footer {
+    background-color: #1d1c1c;
+    color: white;
+    padding: 15px;
+  
+}
+
+aside.footer-widget {
+    margin-bottom: 0px;
+
+}
+aside.footer-widget h4 {
+    font-size: 16px;
+}
+aside.footer-widget ul {
+    font-size: 15px;
+    list-style-type: none;
+    margin-bottom: 20px;
+    padding: 0px;
+}
+aside.footer-widget ul li a {
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 10px;
+    color: #b1acac;
+}
+address {
+    font-size: 14px;
+    line-height: 23px;
+    text-decoration: none;
+}
+
+section.copy {
+    color: white;
+    background-color: black;
+    margin-top: 0px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 14px;
+}
+section.copy p{
+    margin:0px ;
+}
+section.google-map {
+    padding-top: 56px;
+}
